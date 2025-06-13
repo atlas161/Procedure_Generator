@@ -1,6 +1,6 @@
 # Générateur de Procédures IT
 
-![ChromeHome Screenshot](https://raw.githubusercontent.com/atlas161/ChromeHome/main/medias/images/Screenshot.png)
+![ChromeHome Screenshot](https://raw.githubusercontent.com/atlas161/Procedure_Generator/main/medias/images/Screenshot.png)
 
 ## Description
 
@@ -25,8 +25,8 @@ Pour installer et utiliser le Générateur de Procédures IT :
 3. **Aucune installation supplémentaire** : Tout fonctionne en local, sans serveur ni dépendances externes.
 
 ```bash
-git clone https://github.com/atlas161/procedure_generator.git
-cd procedure_generator
+git clone https://github.com/atlas161/Procedure_Generator.git
+cd Procedure_Generator
 start index.html
 ```
 
